@@ -1,0 +1,264 @@
+<p>
+</p>
+<p>
+</p>
+<p>
+     Omeza Coffee Gallery • Menu
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<h1>
+    Omeza Coffee Gallery
+</h1>
+<p>
+    L'art du café depuis 1927
+</p>
+<p>
+    <a href="#espresso" rel="noopener noreferrer" target="_blank">
+        Espresso
+    </a>
+</p>
+<p>
+    <a href="#specialty" rel="noopener noreferrer" target="_blank">
+        Specialty
+    </a>
+</p>
+<p>
+    <a href="#coffee-gallery" rel="noopener noreferrer" target="_blank">
+        Gallery
+    </a>
+</p>
+<p>
+    <a href="#choco" rel="noopener noreferrer" target="_blank">
+        Choco
+    </a>
+</p>
+<p>
+    <a href="#cold" rel="noopener noreferrer" target="_blank">
+        Cold
+    </a>
+</p>
+<p>
+    <a href="#boissons" rel="noopener noreferrer" target="_blank">
+        Boissons
+    </a>
+</p>
+<p>
+    <a href="#beans" rel="noopener noreferrer" target="_blank">
+        Grains
+    </a>
+</p>
+<p>
+</p>
+<h2>
+    Espresso
+</h2>
+<p>
+    Espresso
+</p>
+<p>
+    Ristretto
+</p>
+<p>
+    Americano
+</p>
+<p>
+    Double Espresso
+</p>
+<p>
+</p>
+<h2>
+    Speciality Coffee
+</h2>
+<p>
+     Selon la disponibilité et selon l'arrivage. (Éthiopie, Colombie, Brésil, Honduras, Elixir d’Arabica)
+</p>
+<p>
+    Chemex
+</p>
+<p>
+    V60
+</p>
+<p>
+    Kalita
+</p>
+<p>
+    French Press
+</p>
+<p>
+    Syphon
+</p>
+<p>
+    Aeropress
+</p>
+<p>
+    Turkish
+</p>
+<p>
+</p>
+<h2>
+    Coffee Gallery
+</h2>
+<p>
+    Café Aromatisé
+</p>
+<p>
+    Cappuccino Omeza
+</p>
+<p>
+    Bonbon (Au lait concentré)
+</p>
+<p>
+    Cappuccino Aromatisé
+</p>
+<p>
+    Babyccino
+</p>
+<p>
+    Cappuccino Chantilly
+</p>
+<p>
+    Macchiato
+</p>
+<p>
+    Mokaccino
+</p>
+<p>
+    Latte Macchiato
+</p>
+<p>
+    Diablo
+</p>
+<p>
+    Cortado
+</p>
+<p>
+    Affogato
+</p>
+<p>
+    Con Panna
+</p>
+<p>
+</p>
+<h2>
+    Choco Gallery
+</h2>
+<p>
+    Chocolat Chaud
+</p>
+<p>
+    Chocolat Fondu + Banane
+</p>
+<p>
+    Bianco Nero
+</p>
+<p>
+    Choco Caramello
+</p>
+<p>
+    Chocolat Latte
+</p>
+<p>
+    Choco Monte Cristo
+</p>
+<p>
+</p>
+<h2>
+    Cold Coffee
+</h2>
+<p>
+    Ice Espresso
+</p>
+<p>
+    Ice Latte Coffee
+</p>
+<p>
+    Spanish Ice Coffee
+</p>
+<p>
+    Ice Caramel Macchiato
+</p>
+<p>
+    Vanilla Ice Coffee
+</p>
+<p>
+    Coffee Lassi
+</p>
+<p>
+    Coffee Cola
+</p>
+<p>
+    Frappuccino
+</p>
+<p>
+    Frappuccino Oreo
+</p>
+<p>
+    Frappuccino Cookies
+</p>
+<p>
+    Frappuccino Kinder
+</p>
+<p>
+    Frappuccino Nutella
+</p>
+<p>
+    Frappuccino Lotus
+</p>
+<p>
+    Frappuccino Caramel
+</p>
+<p>
+</p>
+<h2>
+    Boissons Fraîches
+</h2>
+<p>
+    Eau Minérale / Gazeuse 50cl
+</p>
+<p>
+    Soda
+</p>
+<p>
+</p>
+<h2>
+    Café en Grains
+</h2>
+<p>
+    Robusta 125g, 250g, 500g, 1kg
+</p>
+<p>
+    Spécial Omeza 125g, 250g, 500g, 1kg
+</p>
+<p>
+    Arabica 125g, 250g, 500g, 1kg
+</p>
+<p>
+    Elixir D'arabica 125g, 250g, 500g, 1kg
+</p>
+<p>
+    Café Vert 125g, 250g, 500g, 1kg
+</p>
+<p>
+    <strong>
+        Omeza Coffee Gallery
+    </strong>
+     — L’authenticité du grain à la tasse
+</p>
+<p>
+    Ouvert du lundi au samedi • 7h – 19h
+</p>
+<p>
+    © 2025 Omeza Coffee Gallery
+</p>
+<p>
+     &lt;br&gt; // Scroll spy – add/remove 'active' class based on visible section&lt;br&gt; const sections = document.querySelectorAll('section');&lt;br&gt; const navLinks = document.querySelectorAll('nav a');&lt;br&gt;&lt;br&gt; const observerOptions = {&lt;br&gt; root: null,&lt;br&gt; rootMargin: '0px 0px -60% 0px',&lt;br&gt; threshold: 0&lt;br&gt; };&lt;br&gt;&lt;br&gt; const observer = new IntersectionObserver((entries) =&gt; {&lt;br&gt; entries.forEach(entry =&gt; {&lt;br&gt; if (entry.isIntersecting) {&lt;br&gt; const id = entry.target.getAttribute('id');&lt;br&gt; navLinks.forEach(link =&gt; {&lt;br&gt; link.classList.remove('active');&lt;br&gt; if (link.getAttribute('href') === '#' + id) {&lt;br&gt; link.classList.add('active');&lt;br&gt; }&lt;br&gt; });&lt;br&gt; }&lt;br&gt; });&lt;br&gt; }, observerOptions);&lt;br&gt;&lt;br&gt; sections.forEach(section =&gt; observer.observe(section));&lt;br&gt; 
+</p>
